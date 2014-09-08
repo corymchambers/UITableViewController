@@ -1,5 +1,5 @@
 //
-//  CCViewController.h
+//  TableViewController.h
 //  UITableViewControllerChallenge
 //
 //  Created by Cory Chambers on 9/8/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface CCViewController : UIViewController
-
-@property (strong, nonatomic) NSString *corysName;
+@interface TableViewController : UITableViewController
 
 @end
